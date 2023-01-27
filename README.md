@@ -1,4 +1,6 @@
-NVIDIA DRIVER: NVIDIA-Linux-x86_64-470.161.03
+## NVIDIA DRIVER: `NVIDIA-Linux-x86_64-470.161.03` (NVIDIA PROPRIETARY)
+
+
 ##### Dependency package :
 ```shell
 lfs , git 
