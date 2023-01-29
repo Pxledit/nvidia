@@ -1,7 +1,5 @@
-OFFICIAL METHOD
-```shell
-sudo curl -fSsl -O https://us.download.nvidia.com/XFree86/Linux-x86_64/470.161.03/NVIDIA-Linux-x86_64-470.161.03.run
-```
+[OFFICIAL METHOD](https://github.com/Komi7/nvidia/blob/main/nvidia.sh)
+
 
 ## NVIDIA DRIVER: `NVIDIA-Linux-x86_64-470.161.03` (NVIDIA PROPRIETARY)
 
@@ -29,7 +27,7 @@ git lfs clone https://github.com/komi7/nvidia
 * How to run `(ex: sudo ./NVIDIA.run)`
 
 
-# if you don't like fun than do this :)
+# ~~if you don't like fun than do this :)~~
 ```shell
 sudo curl -fSsl -O https://us.download.nvidia.com/XFree86/Linux-x86_64/470.161.03/NVIDIA-Linux-x86_64-470.161.03.run
 ```
